@@ -1,0 +1,17 @@
+Warning: Permanently added 'c142-141' (ED25519) to the list of known hosts.
+WARNING (05/01/22 16:04:00): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4292372.hostlist.8QBQqrhE to get hosts
+starting job on c142-141
+starting job on c143-111
+starting job on c143-142
+starting job on c144-153
+starting job on c145-054
+starting job on c145-081
+starting job on c147-031
+starting job on c147-081
+starting job on c147-192
+starting job on c149-054
+starting job on c149-164
+starting job on c150-112
+slurmstepd: error: *** JOB 4292372 ON c142-141 CANCELLED AT 2022-05-01T18:54:22 ***
+Terminated
